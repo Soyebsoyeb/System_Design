@@ -16,8 +16,10 @@ We follow above 2 pointers about Object of real world in programming by:
 1. Creating a class that act as a blueprint for Object creation. Class contain
 all the characteristics (class variable) and behaviour (class methods) in one block,
 encapsulating it together.
+
 2. We introduce access modifiers (public, private, protected) etc to provide data
 security to the class members.
+
 */
 class SportsCar {
 private:
